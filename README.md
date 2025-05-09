@@ -1,4 +1,4 @@
-# Sticky Pull Request Comment
+# Aticky Pull Request Comment
 
 Create a comment on a pull request, if it exists update that comment.
 This library runs with GitHub Actions. If you feel that the example grammar below is not friendly enough, we recommend reading [this page](https://docs.github.com/en/actions) first.
